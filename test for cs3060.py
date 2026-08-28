@@ -4,3 +4,4 @@ def multiply(x, y):
      return x * y
 print(multiply(a, b))
 
+test = 1
