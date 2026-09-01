@@ -59,10 +59,13 @@ def string_slicing():
     print(s1[1::-2])
     print(s1[0:len(s1):1])
 
-    
 
-calculate_circle_properties()
-string_examples()
-string_examples2()
-length_string()
-string_slicing()
+def main():
+    calculate_circle_properties()
+    string_examples()
+    string_examples2()
+    length_string()
+    string_slicing()
+
+
+main()
